@@ -4,3 +4,5 @@ Git tracks changes.
 Git tracks changes2.
 Git tracks changes23.
 Git tracks changes24.
+
+ Creating a new branch is quick.
